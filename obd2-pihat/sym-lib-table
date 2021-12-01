@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "obd-ii")(type "KiCad")(uri "${KIPRJMOD}/obd-ii.kicad_sym")(options "")(descr ""))
+)
